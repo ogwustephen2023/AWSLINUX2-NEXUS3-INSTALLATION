@@ -1,4 +1,4 @@
-Sonatype Nexus Installation on aws linus 2:
+Sonatype Nexus Installation on aws linus 2: Note: nexus is running on port 8081 by default, enable that on your linux machine
 
 Step1: Java8 Installation
 sudo yum install java-1.8.0-openjdk.x86_64 -y
